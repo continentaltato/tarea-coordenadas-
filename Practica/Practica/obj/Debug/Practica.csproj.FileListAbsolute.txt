@@ -1,0 +1,23 @@
+F:\Practica\Practica\bin\Debug\Practica.exe.config
+F:\Practica\Practica\bin\Debug\Practica.exe
+F:\Practica\Practica\bin\Debug\Practica.pdb
+F:\Practica\Practica\obj\Debug\Practica.exe
+F:\Practica\Practica\obj\Debug\Practica.pdb
+I:\Practica\Practica\bin\Debug\Practica.exe.config
+I:\Practica\Practica\obj\Debug\Practica.exe
+I:\Practica\Practica\bin\Debug\Practica.exe
+I:\Practica\Practica\bin\Debug\Practica.pdb
+I:\Practica\Practica\obj\Debug\Practica.csprojResolveAssemblyReference.cache
+I:\Practica\Practica\obj\Debug\Practica.pdb
+I:\Practica (25-10-2018)\Practica\bin\Debug\Practica.exe.config
+I:\Practica (25-10-2018)\Practica\obj\Debug\Practica.exe
+I:\Practica (25-10-2018)\Practica\obj\Debug\Practica.pdb
+I:\Practica (25-10-2018)\Practica\bin\Debug\Practica.exe
+I:\Practica (25-10-2018)\Practica\bin\Debug\Practica.pdb
+I:\Practica (25-10-2018)\Practica\obj\Debug\Practica.csprojResolveAssemblyReference.cache
+F:\Practica (25-10-2018)\Practica\bin\Debug\Practica.exe.config
+F:\Practica (25-10-2018)\Practica\obj\Debug\Practica.exe
+F:\Practica (25-10-2018)\Practica\obj\Debug\Practica.pdb
+F:\Practica (25-10-2018)\Practica\bin\Debug\Practica.exe
+F:\Practica (25-10-2018)\Practica\bin\Debug\Practica.pdb
+F:\Practica (25-10-2018)\Practica\obj\Debug\Practica.csprojResolveAssemblyReference.cache
